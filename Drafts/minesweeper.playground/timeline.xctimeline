@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/me/Desktop/minesweeper.playground#CharacterRangeLen=27&amp;CharacterRangeLoc=1197&amp;EndingColumnNumber=0&amp;EndingLineNumber=35&amp;StartingColumnNumber=1&amp;StartingLineNumber=34&amp;Timestamp=650215155.788237"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/me/Desktop/minesweeper.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=415&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=5&amp;StartingLineNumber=9&amp;Timestamp=650215155.788347"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/me/Desktop/minesweeper.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=415&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=5&amp;StartingLineNumber=9&amp;Timestamp=650215155.788426"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/me/Desktop/minesweeper.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=415&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=5&amp;StartingLineNumber=9&amp;Timestamp=650215155.788512"
+         lockedSize = "{219, 144}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/me/Desktop/minesweeper.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=415&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=5&amp;StartingLineNumber=9&amp;Timestamp=650215155.78859"
+         lockedSize = "{237, 155}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/me/Desktop/minesweeper.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=416&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=0&amp;StartingLineNumber=10&amp;Timestamp=650215155.788668"
+         lockedSize = "{237, 145}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/me/Desktop/minesweeper.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=416&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=0&amp;StartingLineNumber=10&amp;Timestamp=650215155.788743"
+         lockedSize = "{300, 134}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
